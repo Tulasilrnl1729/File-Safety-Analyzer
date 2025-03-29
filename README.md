@@ -33,3 +33,15 @@ Checking downloaded files before opening.
 Preventing malware infections from unknown sources.
 
 Enhancing cybersecurity awareness.
+
+**
+**# Clone the repository****
+
+git clone https://github.com/Tulasilrnl1729/FileSafetyAnalyzer.git  
+
+# Install dependencies
+pip install -r requirements.txt  
+
+# Run the analyzer
+python file_analyzer.py --file sample.pdf  
+
