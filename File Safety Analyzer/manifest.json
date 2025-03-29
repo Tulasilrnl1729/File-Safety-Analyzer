@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "File Safety Analyzer",
+  "version": "1.0",
+  "description": "Analyzes downloaded files for suspicious behavior using AI and threat intelligence.",
+  "permissions": ["downloads", "storage", "notifications", "webRequest"],
+  "host_permissions": ["https://www.virustotal.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  }
+}
