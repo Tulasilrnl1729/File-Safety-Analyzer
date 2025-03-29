@@ -4,7 +4,6 @@ File Safety Analyzer is a cybersecurity tool that leverages AI and advanced secu
 **🚀 Features**
 
 
-🔍 AI-Powered Threat Detection – Uses machine learning to identify malicious patterns in files.
 
 🛡 Malware & Virus Scanning – Analyzes files for known and unknown threats.
 
@@ -20,11 +19,11 @@ File Safety Analyzer is a cybersecurity tool that leverages AI and advanced secu
 
 🐍 Python (or your preferred language)
 
-🧠 AI/ML for pattern recognition
+
 
 🔄 Hashing & Signature-based detection
 
-📡 OSINT & Threat Intelligence APIs
+
 
 **🎯 Use Cases**
 
